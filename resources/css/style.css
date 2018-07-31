@@ -39,7 +39,6 @@ nav {
   line-height: 2.2;
   font-weight: bold;
   color: #142033;
-
 }
 
 nav:hover {
@@ -68,7 +67,6 @@ nav ol {
 nav a {
   text-decoration: none;
   color: inherit;
-
 }
 
 nav a:hover,
@@ -175,7 +173,6 @@ header h2 {
 
 .definable .word {
   color: #639eff;
-
 }
 
 .definable .word:hover {
@@ -190,12 +187,11 @@ header h2 {
   box-sizing: border-box;
   width: 100%;
   padding: 0.5rem 4rem 2rem 4rem;
-  background-color: #ffffff;
+  background-color: #fff;
   box-shadow: 0 0 64px 0 rgba(0, 0, 0, 0.2);
   opacity: 0;
   font-family: "Proza Libre", sans-serif;
   font-size: 1.5rem;
-
 }
 
 .definable:hover .definition-container {
